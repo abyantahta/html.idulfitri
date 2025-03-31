@@ -26,13 +26,13 @@ body {
 }
 
 .background1 {
-  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('/assets/img/golden-crescent-mosque-maroon-background-ramadan-kareem-2025-in-gold_11559238.jpg!w700wp');
+  background: url('../img/golden-crescent-mosque-maroon-background-ramadan-kareem-2025-in-gold_11559238.jpg!w700wp'),linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3));
   box-sizing: border-box;
   background-size: cover;
 }
 
 .background2 {
-  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('/assets/img/download\ \(3).jpeg');
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../img/download\ \(3\).jpeg');
   box-sizing: border-box;
   background-size: cover;
 }
